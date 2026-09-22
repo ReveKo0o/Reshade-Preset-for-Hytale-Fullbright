@@ -8,6 +8,6 @@
 
 4(if).If an existing reshade was found select the Update Reshade and effects(second one)
 
-6.When u completed the setup u just simply drag my preset to into HytaleClient.exe folder and select to replace.
+5.When u completed the setup u just simply drag my preset to into HytaleClient.exe folder and select to replace.
 
 ext:if u wanna ask something discord:gokberk_02
